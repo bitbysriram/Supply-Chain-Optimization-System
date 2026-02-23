@@ -74,3 +74,10 @@ Dashboard includes:
 ---
 
 ## 📂 Project Structure
+Supply-Chain-Optimization-System
+│── README.md
+│── spark_processing.py
+│── SupplyChainDashboard.pbix
+│── orders.csv
+│── screenshots/
+└── dashboard.png
