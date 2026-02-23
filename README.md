@@ -80,4 +80,4 @@ Supply-Chain-Optimization-System
 │── SupplyChainDashboard.pbix
 │── orders.csv
 │── screenshots/
-└── dashboard.png
+│ └── dashboard.png
