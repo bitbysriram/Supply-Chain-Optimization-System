@@ -1,6 +1,8 @@
+
 ## 📊 Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
+ 
 
 # 🚚 Supply Chain Optimization System
 
