@@ -27,7 +27,7 @@ The system transforms raw supply chain data into actionable business insights th
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 Dashboard includes:
 - Total Revenue KPI  
