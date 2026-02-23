@@ -82,7 +82,7 @@ Supply-Chain-Optimization-System
 ---
 
 ## ▶️ How to Run
-
+![Spark Output](Screenshots/spark_output.jpg)
 1. Clone the repository  
    `git clone https://github.com/bitbysriram/Supply-Chain-Optimization-System.git`
 
