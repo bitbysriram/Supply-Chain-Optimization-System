@@ -1,38 +1,14 @@
-
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
- 
-
 # 🚚 Supply Chain Optimization System
 
-A complete data-driven Supply Chain Optimization System built using Python, SQL, Apache Spark, and Power BI to analyze performance, delivery time, and revenue insights.
+An end-to-end Supply Chain Optimization System built using Python, SQL, Apache Spark, and Power BI to analyze supplier performance, delivery efficiency, and revenue trends.
 
-This project demonstrates real-world data engineering and analytics workflow from raw data to interactive dashboard.
-
----
-
-## 🎯 Project Objective
-To design a scalable supply chain analytics system that helps businesses:
-- Track orders and revenue
-- Analyze delivery performance
-- Monitor fill rate & on-time delivery
-- Generate actionable insights using dashboards
-
----
-
-## 🏗️ System Architecture
-
-![Architecture](screenshots/architecture.png)
-
-Workflow:
-CSV Data → ETL (Python & Spark) → Data Warehouse → Power BI Dashboard
+The system transforms raw supply chain data into actionable business insights through ETL processing and interactive dashboard visualization.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 👨‍💻 Programming & Database
+### 👨‍💻 Programming & Data Processing
 - Python  
 - SQL  
 - Apache Spark  
@@ -43,7 +19,7 @@ CSV Data → ETL (Python & Spark) → Data Warehouse → Power BI Dashboard
 
 ### ☁️ Data Engineering Concepts
 - ETL Pipeline  
-- Data Cleaning  
+- Data Cleaning & Transformation  
 - Data Warehousing  
 - KPI Monitoring  
 
@@ -55,7 +31,7 @@ CSV Data → ETL (Python & Spark) → Data Warehouse → Power BI Dashboard
 
 Dashboard includes:
 - Total Revenue KPI  
-- On-time Delivery %  
+- On-Time Delivery %  
 - Fill Rate %  
 - Category-wise Revenue  
 - Monthly Sales Trend  
@@ -63,10 +39,28 @@ Dashboard includes:
 
 ---
 
+## 🎯 Project Objective
+
+To design a scalable supply chain analytics system that helps businesses:
+
+- Track orders and revenue  
+- Analyze delivery performance  
+- Monitor fill rate & on-time delivery  
+- Generate actionable insights using dashboards  
+
+---
+
+## 🏗 System Architecture
+
+Data Source (CSV) → ETL (Python & Spark) → SQL Database → Power BI Dashboard  
+
+---
+
 ## 🔑 Key Features
+
 ✔ End-to-end ETL pipeline using Python & Spark  
 ✔ Data cleaning & transformation  
-✔ KPI calculation for business insights  
+✔ SQL-based data analysis  
 ✔ Interactive Power BI dashboard  
 ✔ Real-world supply chain dataset  
 ✔ Scalable data architecture  
@@ -81,3 +75,34 @@ Supply-Chain-Optimization-System
 │── orders.csv
 │── screenshots/
 │ └── dashboard.png
+
+---
+
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+   `git clone https://github.com/bitbysriram/Supply-Chain-Optimization-System.git`
+
+2. Install required Python libraries  
+   `pip install pandas pyspark`
+
+3. Run the ETL script  
+   `python spark_processing.py`
+
+4. Open the Power BI dashboard  
+   `SupplyChainDashboard.pbix`
+
+---
+
+## 👨‍💻 Author
+
+Sri Ram Satapathi  
+B.Tech Student | Data Engineering & Cybersecurity  
+GitHub: https://github.com/bitbysriram  
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
