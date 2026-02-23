@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 # 🚚 Supply Chain Optimization System
 
 A complete data-driven Supply Chain Optimization System built using Python, SQL, Apache Spark, and Power BI to analyze performance, delivery time, and revenue insights.
